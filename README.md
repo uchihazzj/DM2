@@ -4,4 +4,4 @@
 
 https://github.com/uchihazzj/DM2
 
-选择的数据集为(https://www.kaggle.com/datasnaek/youtube-new)[Trending YouTube Video Statistics]
+选择的数据集为[Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
