@@ -5,3 +5,5 @@
 https://github.com/uchihazzj/DM2
 
 选择的数据集为[Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
+
+使用方法：将数据集文件放在同级目录，直接执行jupyer notebook即可
